@@ -3,7 +3,7 @@ Analisis sentimen pengguna aplikasi Gojek menggunakan metode machine learning un
 
 Project Text Mining Kelompok 4 :
 1. Nurul Afdhal
-2. Oka
-3. Jerry
-4. Selvia
-5. Sabila
+2. Oka Maulana
+3. Jerry Nurriyansyah
+4. Selvia Dela Utari
+5. Sabila Mujahidah Al-Khayr
